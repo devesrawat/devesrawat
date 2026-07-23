@@ -62,14 +62,13 @@ Eight years shipping distributed systems; now building LLM-powered agents for ba
 
 <br/>
 
-## GitHub
+## Engagements
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=devesrawat&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1728&title_color=C79E4F&text_color=A8B2C4&icon_color=C79E4F&ring_color=C79E4F" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesrawat&layout=compact&hide_border=true&bg_color=0D1728&title_color=C79E4F&text_color=A8B2C4&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devesrawat&background=0D1728&border=0D1728&stroke=0D1728&ring=C79E4F&fire=CE604C&currStreakLabel=C79E4F&sideLabels=A8B2C4&currStreakNum=F0F0EB&sideNums=F0F0EB&dates=6B7688&hide_border=true" />
+| 🏗️ Production Builds | 🔍 Technical & Compliance Audits | ⚙️ Fractional Architecture |
+|:---:|:---:|:---:|
+| End-to-end delivery of agentic AI and payment infrastructure — architecture through production. | Architecture reviews for teams shipping LLM systems into regulated environments. | Ongoing technical ownership for teams that need a senior architect on tap. |
 
 </div>
 
