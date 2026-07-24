@@ -13,6 +13,12 @@
 [![The Failure Mode](https://img.shields.io/badge/Newsletter-The_Failure_Mode-C79E4F?style=for-the-badge&labelColor=0A1220)](https://devesrawat.substack.com)
 [![Email](https://img.shields.io/badge/Email-dvsrwt%40gmail.com-C79E4F?style=for-the-badge&labelColor=0A1220&logo=gmail&logoColor=C79E4F)](mailto:dvsrwt@gmail.com)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/devesrawat/devesrawat/main/ekg-animated.svg" width="100%" alt="Animated signal: detected, recovered, stable — the failure-mode motif" />
+
+<sub>// production incident, live system &nbsp;·&nbsp; detected → recovered → stable</sub>
+
 </div>
 
 <br/>
