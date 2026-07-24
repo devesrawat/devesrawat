@@ -72,7 +72,7 @@ Eight years shipping distributed systems; now building LLM-powered agents for ba
 
 <div align="center">
 
-| 🏗️ Production Builds | 🔍 Technical & Compliance Audits | ⚙️ Fractional Architecture |
+| 🏗️&nbsp; Production Builds | 🔍&nbsp; Technical & Compliance Audits | ⚙️&nbsp; Fractional Architecture |
 |:---:|:---:|:---:|
 | End-to-end delivery of agentic AI and payment infrastructure — architecture through production. | Architecture reviews for teams shipping LLM systems into regulated environments. | Ongoing technical ownership for teams that need a senior architect on tap. |
 
