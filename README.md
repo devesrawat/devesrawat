@@ -25,8 +25,9 @@
 
 ## What I ship
 
-Eight years shipping distributed systems; now building LLM-powered agents for banks and fintechs across GCC, UK, and India. Recent war stories:
+Eight years shipping distributed systems; now building LLM-powered agents for banks, fintechs, and IoT fleets across GCC, UK, and India. Recent war stories:
 
+- **Building the telematics AI agent at [Nexular](https://www.nexular.com/)** — LangGraph multi-agent orchestration + hybrid RAG over high-volume CAN-bus IoT telemetry from electric two/three-wheeler fleets across India, Africa & Southeast Asia, with Redis semantic caching and complexity-based multi-model routing.
 - **Cut LLM inference cost with semantic caching** — a two-layer cache (exact + semantic) stopped the majority of repeat-intent queries from ever reaching the model, without sacrificing correctness in a regulated support context.
 - **Shipped BACS Direct Credit/Debit payment infrastructure** integrating ClearBank, Temporal Cloud, and Mambu core banking for a GCC fintech — eliminating legacy workflow failures across production financial products.
 - **Took a Rust media pipeline from 800ms → under 200ms** while cutting infra cost 25%, and pushed webhook delivery reliability up 95% with an SQS + DLQ redesign.
@@ -54,6 +55,13 @@ Eight years shipping distributed systems; now building LLM-powered agents for ba
 ![MCP](https://img.shields.io/badge/MCP-182437?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_%2B_pgvector-182437?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-182437?style=flat-square)
+
+**IoT & Telematics**
+<br/>
+![IoT Telematics](https://img.shields.io/badge/IoT_Telematics-182437?style=flat-square&color=38bdf8&labelColor=182437)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-182437?style=flat-square&color=38bdf8&labelColor=182437)
+![Fleet Management](https://img.shields.io/badge/Fleet_Management-182437?style=flat-square&color=38bdf8&labelColor=182437)
+![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-182437?style=flat-square&color=38bdf8&labelColor=182437)
 
 **Languages & Infra**
 <br/>
